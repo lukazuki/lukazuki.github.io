@@ -1,0 +1,14 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "API Server",
+  "main": "server.js",
+  "scripts": { 
+    "start": "node server.js"
+  },
+  "author": "Lukazuki",
+  "license": "LIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
