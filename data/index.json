@@ -1,6 +1,6 @@
 {
   "name": "Lukazuki Framework",
-  "type": "library",
+  "type": "module",
   "version": "1.0.3",
   "released": 1637939494,
   "license": "ITL",
@@ -8,7 +8,7 @@
   "author": {
 	  "name": "Lukazuki",
 	  "company": "Invision Themes",
-	  "homepage": "https://lukazuki.com"
+	  "url": "https://lukazuki.com"
   },
   "funding": {
 	  "type": "patreon",
