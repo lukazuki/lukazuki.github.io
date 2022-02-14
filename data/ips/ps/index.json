@@ -1,0 +1,27 @@
+{
+  "name": "Pretty Scrollbars",
+  "type": "addon",
+  "version": "1.0.0",
+  "longversion": "10000",
+  "released": 1637939494,
+  "updateurl": "https://luki.me/file-ps-ips",
+  "require": "Invision Community 4.6.x",
+  "support": {
+	  "forum": "https://luki.me/help-ps-ips",
+	  "docs": "https://luki.me/doc",
+	  "demo": "https://luki.me/show-ps-ips",
+	  "update": "/"
+  },
+  "license": "ITL",
+  "licenseuri": "https://lukazuki.com/eula",
+  "author": {
+	  "name": "Lukazuki",
+	  "company": "Invision Themes",
+	  "url": "https://lukazuki.com"
+  },
+  "funding": {
+	  "type": "patreon",
+	  "name": "Patreon + Lukazuki",
+	  "url": "https://patreon.com/lukazuki"
+  }
+}
