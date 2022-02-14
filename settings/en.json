@@ -1,0 +1,37 @@
+{
+  "name": "English",
+  "type": "lang",
+  "version": "1.0.0",
+  "btn": {
+    "s": "Official Support",
+    "f": "Go to Download",
+    "p": "Become a Patron",
+    "d": "Documentation",
+    "u": "Download new Version"
+  },
+  "title": {
+    "r": "Thank you for your choice 😍",
+    "g": "Join the Patrons 💘",
+    "c": "There is one truth of the Invision Themes"
+  },
+  "desc": {
+    "r": "was created in cooperation with Patreon. I would like to thank everyone Patrons who are funding the development of this project. You guys are doing a great job. All this could not have been possible without your help.",
+    "g": "Become a Patron and Support Lukazuki in Development 💪",
+    "b": "If you found any problem with this project or you have a idea of what can be added. Please go to the <b>Official Support</b> and post your entry.",
+    "d": "Donations supports are welcome, but they are not obligatory. Want to use only for free? Of course, you can. Thats what I made this project for. But if you want to thank me for what I do. If you want get access to the latest updates and other stuff. Go to my page <b>Patreon.com/lukazuki</b>, select the right tier, and enjoy expanded content."
+  },
+  "lang": {
+    "a": "About",
+    "v": "Version",
+    "r": "Require",
+    "f": "Funding",
+    "l": "License",
+    "u": "License URI",
+    "c": "best regards,<br/><b>Lukazuki<b>"
+  },
+  "notice": {
+    "u": "The last update of",
+    "o": "was released on",
+    "w": "What's new in this update?"
+  }
+}
