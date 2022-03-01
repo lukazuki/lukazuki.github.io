@@ -1,13 +1,16 @@
 {
   "name": "English",
   "type": "lang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "btn": {
-    "s": "Official Support",
+    "o": "Official Support",
     "f": "Go to Download",
     "p": "Become a Patron",
-    "d": "Documentation",
-    "u": "Download new Version"
+    "d": "Docs",
+    "u": "Download new Version",
+    "r": "Return", 
+    "s": "Support", 
+    "h": "Report"
   },
   "title": {
     "r": "Thank you for your choice 😍",
@@ -27,11 +30,15 @@
     "f": "Funding",
     "l": "License",
     "u": "License URI",
-    "c": "best regards,<br/><b>Lukazuki<b>"
+    "c": "best regards,<br/><b>Lukazuki<b>",
+    "e": "Error"
   },
   "notice": {
     "u": "The last update of",
     "o": "was released on",
-    "w": "What's new in this update?"
+    "w": "What's new in this update?",
+    "j": "<i>N</i>otice 📣 JavaScript is disabled. This site requires it to work, so for a full functionality, please enable <b>JavaScript</b> in your browser and return to continue. Thank you ❤️",
+    "d": "<i>S</i>top ✋ You are not allowed to use <b>DevTools</b> on this website. Please close it and use the site as a normal user 😇 If you found any bug or you want to modify it, go to the official Lukazuki site and write a message on the support topic. Thank you ❤️",
+    "f": "<i>A</i>lert 🚨 violation of the license agreement has been detected. Dear user, if you see this message, please immediately report it to Lukazuki 💌 Any changes made to the template must be restored to the default. Strictly forbidden is to modify the theme framework. Thank you ❤️"
   }
 }
