@@ -1,18 +1,21 @@
 {
   "name": "Polski",
   "type": "lang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "btn": {
-    "s": "Oficjalne Wsparcie",
+    "o": "Oficjalne Wsparcie",
     "f": "Idź do Pobierania",
     "p": "Zostań Patronem",
-    "d": "Dokumentacja",
-    "u": "Ściągnij nową Wersję"
+    "d": "Poradniki",
+    "u": "Ściągnij nową Wersję",
+    "r": "Powrót", 
+    "s": "Pomoc", 
+    "a": "Zgłoś Nadużycie"
   },
   "title": {
     "r": "Dziękuje za Twój wybór 😍",
     "g": "Dołącz do Patronów 💘",
-    "c": "There is one truth of the Invision Themes"
+    "c": "Jedyna prawda o Wizjonerskich Motywach"
   },
   "desc": {
     "r": "powstał we współpracy z Patreonem. Pragnę podziękować wszystkim Patronom, którzy finansują rozwój tego projektu. Odwalacie kawał roboty. To wszystko nie byłoby możliwe bez Waszej pomocy.",
@@ -27,11 +30,15 @@
     "f": "Finasowane",
     "l": "Licencja",
     "u": "URI Licencji",
-    "c": "pozdrawiam,<br/><b>Lukazuki<b>"
+    "c": "pozdrawiam,<br/><b>Lukazuki<b>",
+    "e": "Błąd"
   },
   "notice": {
     "u": "Ostatnia aktualizacja",
     "o": "została wydana w dniu",
-    "w": "Co nowego w tej aktualizacji?"
+    "w": "Co nowego w tej aktualizacji?",
+    "j": "<i>O</i>strzeżenie 📣 JavaScript jest wyłączone. Ta strona wymaga go do działania, więc aby uzyskać pełną funkcjonalność, włącz <b>JavaScript</b> w swojej przeglądarce i powróć, aby kontynuować. Dziękuję ❤️",
+    "d": "<i>S</i>tój ✋ Zabrania się używania <b>DevTools</b> na tej stronie. Proszę go zamknąć i korzystać z witryny jak normalny użytkownik 😇 Jeśli znalazłeś jakiś błąd lub chcesz go naprawić, wejdź na oficjalną stronę Lukazuki i napisz wiadomość w temacie pomocy technicznej. Dziękuję ❤️",
+    "f": "<i>U</i>waga 🚨 wykryto naruszenie umowy licencyjnej. Drogi użytkowniku, jeśli widzisz tę wiadomość, natychmiast zgłoś ją do Lukazukiego 💌 Wszelkie zmiany wprowadzone w szablonie muszą zostać przywrócone do wartości domyślnych. Surowo zabronione jest modyfikowanie struktury motywu. Dziękuję ❤️"
   }
 }
