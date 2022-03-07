@@ -2,7 +2,9 @@
   "name": "Lukazuki Framework",
   "type": "module",
   "version": "1.0.3",
+	"longversion": "10003",
   "released": 1637939494,
+  "updateurl": "https://lukazuki.com",
   "license": "ITL",
   "licenseuri": "https://lukazuki.com/eula",
   "author": {
